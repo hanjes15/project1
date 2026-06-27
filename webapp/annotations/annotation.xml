@@ -14,6 +14,7 @@
                         <PropertyPath>SupplierID</PropertyPath>
                         <PropertyPath>Discontinued</PropertyPath>
                         <PropertyPath>ProductName</PropertyPath>
+                        <PropertyPath>CategoryID</PropertyPath>
                     </Collection>
                 </Annotation>
             </Annotations>
