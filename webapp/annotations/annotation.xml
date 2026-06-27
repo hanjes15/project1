@@ -15,6 +15,7 @@
                         <PropertyPath>Discontinued</PropertyPath>
                         <PropertyPath>ProductName</PropertyPath>
                         <PropertyPath>CategoryID</PropertyPath>
+                        <PropertyPath>UnitPrice</PropertyPath>
                     </Collection>
                 </Annotation>
             </Annotations>
